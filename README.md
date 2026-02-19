@@ -1,2 +1,1 @@
-# Praktikum10-Pull-301220070
-Latihan pull
+Perubahan pertama dilakukan langsung melalui GitHub.
